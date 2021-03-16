@@ -84,8 +84,8 @@ ${Object.keys(difficultyAmounts)
   .join(EOL + EOL)}
 
 ${generateSolvingsTable("All solvings")}
-${generateSolvingsTable('Solvings with difficulty "Hard"', (p) => p.difficulty === "Hard")}
-${generateSolvingsTable('Solvings with difficulty "Medium"', (p) => p.difficulty === "Medium")}
-${generateSolvingsTable('Solvings with difficulty "Easy"', (p) => p.difficulty === "Easy")}
+${generateSolvingsTable('Solvings with difficulty "Hard"', (p) => p.difficulty === "hard")}
+${generateSolvingsTable('Solvings with difficulty "Medium"', (p) => p.difficulty === "medium")}
+${generateSolvingsTable('Solvings with difficulty "Easy"', (p) => p.difficulty === "easy")}
 `;
 };
