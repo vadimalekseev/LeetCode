@@ -35,7 +35,7 @@ function predictLeetcodeUrl(id) {
  * @param {string} text
  * @returns Converted text.
  */
- function toPascalCase(text) {
+function toPascalCase(text) {
   return text.replace(/\w+/g, (text) => text[0].toUpperCase() + text.slice(1).toLowerCase());
 }
 
@@ -48,7 +48,9 @@ function generateTableBody(problems) {
   return problems
     .map(
       (problem, idx) =>
-        `|${idx + 1}|[${toPascalCase(problem.id.replace(/-/g, " "))}](${predictLeetcodeUrl(problem.id)})|${toPascalCase(problem.difficulty)}|${problem.solvings
+        `|${idx + 1}|[${toPascalCase(problem.id.replace(/-/g, " "))}](${predictLeetcodeUrl(problem.id)})|${toPascalCase(
+          problem.difficulty
+        )}|${problem.solvings
           .map((solut) => `[${EXTENSIONS_TITLES[solut.extension]}](${predictGithubUrl(solut.path)})`)
           .join(", ")}|`
     )
@@ -68,9 +70,8 @@ module.exports = (problems) => {
   function computeDifficultiesCount() {
     return problems.reduce((acc, curr) => {
       acc[curr.difficulty] = (acc[curr.difficulty] || 0) + 1;
-      Object.keys(EXTENSIONS_TITLES).forEach(ext => {
-        if (curr.solvings.find(s => s.extension === ext))
-          acc[ext] = (acc[ext] || 0) + 1;
+      Object.keys(EXTENSIONS_TITLES).forEach((ext) => {
+        if (curr.solvings.find((s) => s.extension === ext)) acc[ext] = (acc[ext] || 0) + 1;
       });
       return acc;
     }, {});
@@ -100,24 +101,31 @@ module.exports = (problems) => {
 
   const solvingsStat = computeDifficultiesCount();
 
-  return `# This repo contains my solvings leetcode problems
+  return `# This repo contains my leetcode problem solving tasks
 
 This file was generated automatically by [build.js](${predictGithubUrl("scripts/build.js")}) script.
 
+## Number of all solved problems 📈: ${problems.length}
 ${generateSolvingsTable("All solvings")}
-Count of all problems solved: ${problems.length}
 
+## Number of "Hard" solved problems 🤯: ${solvingsStat[HARD_DIFFICULT_ID]}
 ${generateSolvingsTable('Solvings with difficulty "Hard"', (p) => p.difficulty === HARD_DIFFICULT_ID)}
-Count of solved problems with difficulty "Hard": ${solvingsStat[HARD_DIFFICULT_ID]}
 
+## Number of "Medium" solved problems 😨: ${solvingsStat[MEDIUM_DIFFICULT_ID]}
 ${generateSolvingsTable('Solvings with difficulty "Medium"', (p) => p.difficulty === MEDIUM_DIFFICULT_ID)}
-Count of solved problems with difficulty "Medium": ${solvingsStat[MEDIUM_DIFFICULT_ID]}
 
+## Number of "Easy" solved problems 🥱: ${solvingsStat[EASY_DIFFICULT_ID]}
 ${generateSolvingsTable('Solvings with difficulty "Easy"', (p) => p.difficulty === EASY_DIFFICULT_ID)}
-Count of solved problems with difficulty "Easy": ${solvingsStat[EASY_DIFFICULT_ID]}
 
-${Object.keys(EXTENSIONS_TITLES).map(ext =>
-  `${generateSolvingsTable(`Solvings with ${EXTENSIONS_TITLES[ext]}`, (p) => !!p.solvings.find(s => s.extension === ext))}
-  Solved problems with ${EXTENSIONS_TITLES[ext]}: ${solvingsStat[ext]}`).join(EOL + EOL)}
+${Object.keys(EXTENSIONS_TITLES)
+  .map(
+    (ext) =>
+      `## Solved problems with ${EXTENSIONS_TITLES[ext]}: ${solvingsStat[ext]}
+  ${generateSolvingsTable(
+    `Solvings with ${EXTENSIONS_TITLES[ext]}`,
+    (p) => !!p.solvings.find((s) => s.extension === ext)
+  )}`
+  )
+  .join(EOL + EOL)}
 `;
 };

@@ -12,7 +12,6 @@ function separateNameFromExtension(fileName) {
   return [fileName.substring(0, extension), fileName.substring(extension + 1)];
 }
 
-
 /**
  * Collect all solvings and receive info about them.
  * @returns {Promise<{ id: string, solvings: { extension: string, path: string }[], difficulty: string}[]>} Collected solvings.
