@@ -12,18 +12,10 @@ function separateNameFromExtension(fileName) {
   return [fileName.substring(0, extension), fileName.substring(extension + 1)];
 }
 
-/**
- * Convert text to PascalCase
- * @param {string} text
- * @returns Converted text.
- */
-function toPascalCase(text) {
-  return text.replace(/\w+/g, (text) => text[0].toUpperCase() + text.slice(1).toLowerCase());
-}
 
 /**
  * Collect all solvings and receive info about them.
- * @returns {Promise<{ id: string, title: string, solvings: { title: string, path: string }[], difficulty: string}[]>} Collected solvings.
+ * @returns {Promise<{ id: string, solvings: { extension: string, path: string }[], difficulty: string}[]>} Collected solvings.
  */
 module.exports = async () => {
   const solvingsFolderPath = path.join(__dirname, "..", "Solvings");
@@ -36,13 +28,12 @@ module.exports = async () => {
       const [solvingId, extension] = separateNameFromExtension(solvingFileName);
       const problemWithSameId = allSolvings.find((problem) => problem.id === solvingId);
 
-      const solvingInfo = { title: extension.toUpperCase(), path: path.join(difficulty, solvingFileName) };
+      const solvingInfo = { extension, path: path.join(difficulty, solvingFileName) };
       if (!problemWithSameId)
         allSolvings.push({
           id: solvingId,
-          title: toPascalCase(solvingId.replace(/-/g, " ")),
           solvings: [solvingInfo],
-          difficulty: toPascalCase(difficulty),
+          difficulty,
         });
       else problemWithSameId.solvings.push(solvingInfo);
 
