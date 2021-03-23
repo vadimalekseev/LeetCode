@@ -19,7 +19,8 @@ const EXTENSIONS_TITLES = Object.freeze({
  * @returns GitHub path url;
  */
 function predictGithubUrl(pathToFile) {
-  return `${GITHUB_REPO_URL}/blob/main/${pathToFile}`;
+  const normalizedPath = pathToFile.replace("\\", "/");
+  return `${GITHUB_REPO_URL}/blob/main/solvings/${normalizedPath}`;
 }
 
 /**
