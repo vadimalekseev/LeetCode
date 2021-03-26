@@ -7,8 +7,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>All solvings</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/palindrome-number.cs)|
 |2|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/reverse-integer.cs)|
 |3|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.js)|
@@ -18,7 +18,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |7|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/hard/median-of-two-sorted-arrays.cs)|
 |8|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
 |9|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
-|10|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|10|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -28,8 +28,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>Solvings with difficulty "Hard"</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/hard/median-of-two-sorted-arrays.cs)|
 
 </details>
@@ -40,11 +40,11 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>Solvings with difficulty "Medium"</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
-|3|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|3|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -54,8 +54,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>Solvings with difficulty "Easy"</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/palindrome-number.cs)|
 |2|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/reverse-integer.cs)|
 |3|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.js)|
@@ -71,8 +71,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>Solvings with C#</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/palindrome-number.cs)|
 |2|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/reverse-integer.cs)|
 |3|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.js)|
@@ -81,7 +81,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |6|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/hard/median-of-two-sorted-arrays.cs)|
 |7|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
 |8|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
-|9|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|9|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -91,8 +91,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 <details>
 <summary>Solvings with JS</summary>
 
-| #     | Problem            | Difficulty | Solvings        |
-|:-----:|:------------------:|:----------:|:---------------:|
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
 |1|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/running-sum-of-1d-array.js)|
 |2|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/shuffle-the-array.js)|
 
