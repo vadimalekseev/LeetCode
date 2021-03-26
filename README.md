@@ -1,6 +1,6 @@
 # This repo contains my leetcode problem solving tasks
 
-This file was generated automatically by [build.js](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/scripts/build.js) script.
+This file was generated automatically by [build.js](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/scripts/build.js) script.
 
 ## Number of all solved problems 📈: 10
 

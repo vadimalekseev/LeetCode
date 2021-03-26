@@ -1,4 +1,5 @@
 // @ts-check
+const path = require("path")
 
 const EOL = "\n";
 const GITHUB_REPO_URL = "https://github.com/Vad1mAlekseev/LeetCodeProblemSolving";
@@ -19,8 +20,8 @@ const EXTENSIONS_TITLES = Object.freeze({
  * @returns GitHub path url;
  */
 function predictGithubUrl(pathToFile) {
-  const normalizedPath = pathToFile.replace("\\", "/");
-  return `${GITHUB_REPO_URL}/blob/main/solvings/${normalizedPath}`;
+  const normalizedPath = pathToFile.replace(/\\/g, "/");
+  return `${GITHUB_REPO_URL}/blob/main/${normalizedPath}`;
 }
 
 /**
@@ -109,7 +110,7 @@ module.exports = (problems) => {
 
   return `# This repo contains my leetcode problem solving tasks
 
-This file was generated automatically by [build.js](${predictGithubUrl("scripts/build.js")}) script.
+This file was generated automatically by [build.js](${predictGithubUrl(path.join("scripts", "build.js"))}) script.
 
 ## Number of all solved problems 📈: ${problems.length}
 ${generateSolvingsTable("All solvings")}

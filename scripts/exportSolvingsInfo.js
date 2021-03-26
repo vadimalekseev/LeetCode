@@ -43,9 +43,8 @@ module.exports = async () => {
       const [solvingId, extension] = separateNameFromExtension(solvingFileName);
       const problemWithSameId = allSolvings.find((problem) => problem.id === solvingId);
 
-      const solvPath = path.join(difficulty, solvingFileName);
-      const absSolvPath = path.join(solvingsFolderPath, solvPath)
-      const solvingInfo = { extension, path: solvPath, feature: getFeature(absSolvPath) };
+      const absSolvPath = path.join("solvings", difficulty, solvingFileName)
+      const solvingInfo = { extension, path: absSolvPath, feature: getFeature(absSolvPath) };
       if (!problemWithSameId)
         allSolvings.push({
           id: solvingId,
