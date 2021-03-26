@@ -3,18 +3,34 @@
 const fs = require("fs");
 const path = require("path");
 
+const EOL = "\n";
+
 /**
  * Separate file name from extension.
  * @param {string} fileName The name of file.
  */
 function separateNameFromExtension(fileName) {
-  const extension = fileName.lastIndexOf(".");
-  return [fileName.substring(0, extension), fileName.substring(extension + 1)];
+  const extensionIdx = fileName.lastIndexOf(".");
+  const nameWithoutExtension = fileName.substring(0, extensionIdx);
+  const extension = fileName.substring(extensionIdx + 1);
+  return [nameWithoutExtension, extension];
+}
+
+/**
+ *
+ * @param {string} filePath
+ * @return {string}
+ */
+function getFeature(filePath) {
+  const content = fs.readFileSync(filePath);
+  const lines = content.toString().split(EOL);
+
+  return lines[0] && lines[0].startsWith("// ") ? lines[0].substring(3) : null;
 }
 
 /**
  * Collect all solvings and receive info about them.
- * @returns {Promise<{ id: string, solvings: { extension: string, path: string }[], difficulty: string}[]>} Collected solvings.
+ * @returns {Promise<{ id: string, solvings: { extension: string, path: string, feature?: string }[], difficulty: string}[]>} Collected solvings.
  */
 module.exports = async () => {
   const solvingsFolderPath = path.join(__dirname, "..", "Solvings");
@@ -27,7 +43,9 @@ module.exports = async () => {
       const [solvingId, extension] = separateNameFromExtension(solvingFileName);
       const problemWithSameId = allSolvings.find((problem) => problem.id === solvingId);
 
-      const solvingInfo = { extension, path: path.join(difficulty, solvingFileName) };
+      const solvPath = path.join(difficulty, solvingFileName);
+      const absSolvPath = path.join(solvingsFolderPath, solvPath)
+      const solvingInfo = { extension, path: solvPath, feature: getFeature(absSolvPath) };
       if (!problemWithSameId)
         allSolvings.push({
           id: solvingId,

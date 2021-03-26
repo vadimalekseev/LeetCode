@@ -42,18 +42,23 @@ function toPascalCase(text) {
 
 /**
  * Generate table body from problems array.
- * @param {{ id: string, solvings: { extension: string, path: string }[], difficulty: string}[]} problems The problems.
+ * @param {{ id: string, solvings: { extension: string, path: string, feature?: string }[], difficulty: string}[]} problems The problems.
  * @returns Table body.
  */
 function generateTableBody(problems) {
   return problems
     .map(
-      (problem, idx) =>
-        `|${idx + 1}|[${toPascalCase(problem.id.replace(/-/g, " "))}](${predictLeetcodeUrl(problem.id)})|${toPascalCase(
-          problem.difficulty
-        )}|${problem.solvings
-          .map((solut) => `[${EXTENSIONS_TITLES[solut.extension]}](${predictGithubUrl(solut.path)})`)
-          .join(", ")}|`
+      (problem, idx) => {
+        const number = idx + 1;
+        const problemName = toPascalCase(problem.id.replace(/-/g, " "));
+        const problemUrl = predictLeetcodeUrl(problem.id);
+        const difficulty = toPascalCase(problem.difficulty);
+        const solvings = problem.solvings
+          .map((solut) => `[${EXTENSIONS_TITLES[solut.extension]}${solut.feature ? ` (${solut.feature})` : ""}](${predictGithubUrl(solut.path)})`)
+          .join(", ");
+
+        return `|${number}|[${problemName}](${problemUrl})|${difficulty}|${solvings}|`;
+      }
     )
     .join(EOL);
 }
@@ -90,8 +95,8 @@ module.exports = (problems) => {
       "<details>",
       `<summary>${summary}</summary>`,
       "",
-      "| #     | Problem            | Difficulty | Solvings        |",
-      "|:-----:|:------------------:|:----------:|:---------------:|",
+      "| #     | Problem            | Difficulty | Solvings                |",
+      "|:-----:|:------------------:|:----------:|:-----------------------:|",
       predicate ? generateTableBody(problems.filter(predicate)) : generateTableBody(problems),
       "",
       "</details>",
