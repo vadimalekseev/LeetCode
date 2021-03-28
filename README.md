@@ -16,7 +16,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |5|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/two-sum.cs)|
 |6|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/valid-parentheses.cs)|
 |7|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/hard/median-of-two-sorted-arrays.cs)|
-|8|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
+|8|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |9|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |10|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
 |11|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
@@ -43,7 +43,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
+|1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |2|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
 |4|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
@@ -81,7 +81,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |4|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/two-sum.cs)|
 |5|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/easy/valid-parentheses.cs)|
 |6|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/hard/median-of-two-sorted-arrays.cs)|
-|7|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs)|
+|7|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |8|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |9|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs)|
 |10|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
@@ -102,14 +102,15 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Solved problems with Go: 1
+## Solved problems with Go: 2
   
 <details>
 <summary>Solvings with Go</summary>
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
+|1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
+|2|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 
 </details>
 
