@@ -12,6 +12,7 @@ const EASY_DIFFICULT_ID = "easy";
 const EXTENSIONS_TITLES = Object.freeze({
   cs: "C#",
   js: "JS",
+  go: "Go",
 });
 
 /**
