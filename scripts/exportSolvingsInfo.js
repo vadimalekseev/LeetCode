@@ -33,7 +33,7 @@ function getFeature(filePath) {
  * @returns {Promise<{ id: string, solvings: { extension: string, path: string, feature?: string }[], difficulty: string}[]>} Collected solvings.
  */
 module.exports = async () => {
-  const solvingsFolderPath = path.join(__dirname, "..", "Solvings");
+  const solvingsFolderPath = path.join(__dirname, "..", "solvings");
   const diffucultyFolders = fs.readdirSync(solvingsFolderPath);
 
   const problemSolvings = diffucultyFolders.reduce((difficulties, difficulty) => {
