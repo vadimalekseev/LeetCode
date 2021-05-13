@@ -1,36 +1,25 @@
-// 4%😁
+// 90%
+
+package solvings
+
+const ubyteLen = 128
 
 func lengthOfLongestSubstring(s string) int {
-	if s == "" {
-		return 0
-	}
+	var has [ubyteLen]bool
 
-	max := 1
-	set := make(map[byte]bool)
+	max := 0
+	for winOffset, idx := 0, 0; idx < len(s); idx++ {
 
-	seqItemsLen := 0
-	seqStartIdx := -1
-	for idx := 0; idx < len(s); idx++ {
-		if set[s[idx]] {
-			if max < seqItemsLen {
-				max = seqItemsLen
-			}
-			seqItemsLen = 0
-			set = make(map[byte]bool)
-
-			idx = seqStartIdx
-			seqStartIdx = -1
-			continue
-		}
-		if seqStartIdx == -1 {
-			seqStartIdx = idx
+		for has[s[idx]] {
+			has[s[winOffset]] = false
+			winOffset++
 		}
 
-		seqItemsLen++
-		set[s[idx]] = true
-	}
-	if max < seqItemsLen {
-		max = seqItemsLen
+		has[s[idx]] = true
+
+		if sum := idx-winOffset+1; sum > max {
+			max = sum
+		}
 	}
 
 	return max
