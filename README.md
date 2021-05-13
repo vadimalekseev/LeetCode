@@ -2,7 +2,7 @@
 
 This file was generated automatically by [build.js](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/scripts/build.js) script.
 
-## Number of all solved problems 📈: 11
+## Number of all solved problems 📈: 12
 
 <details>
 <summary>All solvings</summary>
@@ -19,7 +19,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |8|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |9|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |10|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
-|11|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|11|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
+|12|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -36,7 +37,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Number of "Medium" solved problems 😨: 4
+## Number of "Medium" solved problems 😨: 5
 
 <details>
 <summary>Solvings with difficulty "Medium"</summary>
@@ -46,7 +47,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |2|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
-|4|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|4|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
+|5|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -102,7 +104,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Solved problems with Go: 3
+## Solved problems with Go: 4
   
 <details>
 <summary>Solvings with Go</summary>
@@ -112,6 +114,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/add-two-numbers.go)|
 |2|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
+|4|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCodeProblemSolving/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
 
 </details>
 
