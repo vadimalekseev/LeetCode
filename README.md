@@ -2,7 +2,7 @@
 
 This file was generated automatically by [build.js](https://github.com/Vad1mAlekseev/LeetCode/blob/main/scripts/build.js) script.
 
-## Number of all solved problems 📈: 12
+## Number of all solved problems 📈: 13
 
 <details>
 <summary>All solvings</summary>
@@ -20,7 +20,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |9|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |10|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
 |11|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
-|12|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|12|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
+|13|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -37,7 +38,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Number of "Medium" solved problems 😨: 5
+## Number of "Medium" solved problems 😨: 6
 
 <details>
 <summary>Solvings with difficulty "Medium"</summary>
@@ -48,7 +49,8 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |2|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
 |4|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
-|5|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|5|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
+|6|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -104,7 +106,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Solved problems with Go: 5
+## Solved problems with Go: 6
   
 <details>
 <summary>Solvings with Go</summary>
@@ -116,6 +118,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |3|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
 |4|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
 |5|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
+|6|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
 
 </details>
 
