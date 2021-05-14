@@ -2,7 +2,7 @@
 const path = require("path")
 
 const EOL = "\n";
-const GITHUB_REPO_URL = "https://github.com/Vad1mAlekseev/LeetCodeProblemSolving";
+const GITHUB_REPO_URL = "https://github.com/Vad1mAlekseev/LeetCode";
 const LEETCODE_URL = "https://leetcode.com";
 
 const HARD_DIFFICULT_ID = "hard";
