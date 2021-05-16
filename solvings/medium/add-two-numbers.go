@@ -1,4 +1,3 @@
-
 package solvings
 
 type ListNode struct {

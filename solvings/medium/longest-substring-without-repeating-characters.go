@@ -17,7 +17,7 @@ func lengthOfLongestSubstring(s string) int {
 
 		has[s[idx]] = true
 
-		if sum := idx-winOffset+1; sum > max {
+		if sum := idx - winOffset + 1; sum > max {
 			max = sum
 		}
 	}
