@@ -9,7 +9,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
+|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
 |2|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
 |3|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
 |4|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
@@ -63,7 +63,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
+|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
 |2|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
 |3|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
 |4|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
@@ -115,7 +115,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
+|1|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
 |2|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
 |3|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
 |4|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
