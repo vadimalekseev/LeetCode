@@ -1,3 +1,5 @@
+package solvings
+
 import "strings"
 
 func defangIPaddr(address string) string {
