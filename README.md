@@ -2,37 +2,38 @@
 
 This file was generated automatically by [build.js](https://github.com/Vad1mAlekseev/LeetCode/blob/main/scripts/build.js) script.
 
-## Number of all solved problems 📈: 24
+## Number of all solved problems 📈: 25
 
 <details>
 <summary>All solvings</summary>
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/defanging-an-ip-address.go)|
-|2|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/how-many-numbers-are-smaller-than-the-current-number.go)|
-|3|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays-ii.go)|
-|4|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
-|5|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-linked-lists.go)|
-|6|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/jewels-and-stones.go)|
-|7|[Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/number-of-steps-to-reduce-a-number-to-zero.go)|
-|8|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
-|9|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
-|10|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
-|11|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/richest-customer-wealth.go)|
-|12|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
-|13|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
-|14|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
-|15|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
-|16|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
-|17|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
-|18|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
-|19|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
-|20|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
-|21|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
-|22|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
-|23|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
-|24|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
+|1|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/customers-who-never-order.sql)|
+|2|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/defanging-an-ip-address.go)|
+|3|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/how-many-numbers-are-smaller-than-the-current-number.go)|
+|4|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays-ii.go)|
+|5|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
+|6|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-linked-lists.go)|
+|7|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/jewels-and-stones.go)|
+|8|[Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/number-of-steps-to-reduce-a-number-to-zero.go)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
+|10|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
+|11|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
+|12|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/richest-customer-wealth.go)|
+|13|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
+|14|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
+|15|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
+|16|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
+|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
+|18|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
+|19|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
+|20|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
+|21|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
+|22|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
+|23|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
+|24|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
+|25|[String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi)|Medium|[C# (99.91%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/string-to-integer-atoi.cs)|
 
 </details>
 
@@ -66,30 +67,31 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Number of "Easy" solved problems 🥱: 17
+## Number of "Easy" solved problems 🥱: 18
 
 <details>
 <summary>Solvings with difficulty "Easy"</summary>
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/defanging-an-ip-address.go)|
-|2|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/how-many-numbers-are-smaller-than-the-current-number.go)|
-|3|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays-ii.go)|
-|4|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
-|5|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-linked-lists.go)|
-|6|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/jewels-and-stones.go)|
-|7|[Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/number-of-steps-to-reduce-a-number-to-zero.go)|
-|8|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
-|9|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
-|10|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
-|11|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/richest-customer-wealth.go)|
-|12|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
-|13|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
-|14|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
-|15|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
-|16|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
-|17|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
+|1|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/customers-who-never-order.sql)|
+|2|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/defanging-an-ip-address.go)|
+|3|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/how-many-numbers-are-smaller-than-the-current-number.go)|
+|4|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays-ii.go)|
+|5|[Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-arrays.go)|
+|6|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/intersection-of-two-linked-lists.go)|
+|7|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/jewels-and-stones.go)|
+|8|[Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/number-of-steps-to-reduce-a-number-to-zero.go)|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs)|
+|10|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
+|11|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
+|12|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/richest-customer-wealth.go)|
+|13|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
+|14|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
+|15|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
+|16|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
+|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
+|18|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
 
 </details>
 
@@ -155,15 +157,16 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Solved problems with SQL: 2
+## Solved problems with SQL: 3
   
 <details>
 <summary>Solvings with SQL</summary>
 
 | #     | Problem            | Difficulty | Solvings                |
 |:-----:|:------------------:|:----------:|:-----------------------:|
-|1|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
-|2|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
+|1|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/customers-who-never-order.sql)|
+|2|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reformat-department-table.sql)|
+|3|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
 
 </details>
 
