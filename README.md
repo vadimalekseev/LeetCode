@@ -150,3 +150,15 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 
 </details>
 
+
+## Solved problems with SQL: undefined
+  
+<details>
+<summary>Solvings with SQL</summary>
+
+| #     | Problem            | Difficulty | Solvings                |
+|:-----:|:------------------:|:----------:|:-----------------------:|
+
+
+</details>
+
