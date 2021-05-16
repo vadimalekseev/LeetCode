@@ -1,3 +1,7 @@
+// 100%
+
+package solvings
+
 import (
 	"fmt"
 )
