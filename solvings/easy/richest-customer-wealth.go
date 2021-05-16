@@ -1,3 +1,5 @@
+package solvings
+
 func maximumWealth(accounts [][]int) int {
 	m := 0
 	for _, a := range accounts {
