@@ -19,8 +19,7 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
                 
     - name: Format
-      run: if [ "$(gofmt -s -l . | wc -l)" -gt 0 ]; then exit 1; fi
-      if: matrix.os == 'ubuntu-latest'
+    - run: if [ "$(gofmt -s -l . | wc -l)" -gt 0 ]; then exit 1; fi
         
     - name: Update README
       uses: actions/setup-node@v1
