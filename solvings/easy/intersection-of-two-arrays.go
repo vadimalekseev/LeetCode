@@ -1,5 +1,3 @@
-// 100%
-
 package solvings
 
 func intersection(nums1 []int, nums2 []int) []int {
