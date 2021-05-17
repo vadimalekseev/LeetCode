@@ -25,7 +25,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |14|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
 |15|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
 |16|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
-|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
+|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.go)|
 |18|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
 |19|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
 |20|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
@@ -90,7 +90,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |14|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
 |15|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-the-array.js)|
 |16|[Swap Salary](https://leetcode.com/problems/swap-salary)|Easy|[SQL](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/swap-salary.sql)|
-|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
+|17|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.go)|
 |18|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
 
 </details>
@@ -106,7 +106,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/palindrome-number.go)|
 |2|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/reverse-integer.cs)|
 |3|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.go), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
-|4|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs)|
+|4|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.go)|
 |5|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
 |6|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
 |7|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
@@ -130,7 +130,7 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 </details>
 
 
-## Solved problems with Go: 18
+## Solved problems with Go: 19
   
 <details>
 <summary>Solvings with Go</summary>
@@ -148,13 +148,14 @@ This file was generated automatically by [build.js](https://github.com/Vad1mAlek
 |9|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/richest-customer-wealth.go)|
 |10|[Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.go), [JS](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/running-sum-of-1d-array.js)|
 |11|[Shuffle String](https://leetcode.com/problems/shuffle-string)|Easy|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/shuffle-string.go)|
-|12|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
-|13|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
-|14|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
-|15|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
-|16|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
-|17|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
-|18|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
+|12|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/two-sum.go)|
+|13|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|Easy|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/easy/valid-parentheses.go)|
+|14|[Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|Hard|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.cs), [Go (98%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/hard/median-of-two-sorted-arrays.go)|
+|15|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.cs), [Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/add-two-numbers.go)|
+|16|[Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.cs), [Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/encode-and-decode-tinyurl.go)|
+|17|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C#](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.cs), [Go (90%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/longest-substring-without-repeating-characters.go)|
+|18|[Queries On A Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Go (100%)](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/queries-on-a-permutation-with-key.go)|
+|19|[Sort The Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Medium|[Go](https://github.com/Vad1mAlekseev/LeetCode/blob/main/solvings/medium/sort-the-matrix-diagonally.go)|
 
 </details>
 
